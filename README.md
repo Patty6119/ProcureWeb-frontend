@@ -1,70 +1,52 @@
-# Getting Started with Create React App
+Getting Started with ProcureSWeb
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+npm start in cmd and you'll get this Home page And then you've read now 
 
-## Available Scripts
+![Screenshot 2025-03-07 170007](https://github.com/user-attachments/assets/7492c3dc-606f-4c8c-b654-d4512e0b1f31)
 
-In the project directory, you can run:
+You can do CRUD by this method
 
-### `npm start`
+-Create
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Click on Create New button
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![334793](https://github.com/user-attachments/assets/92f46bf8-fb67-4ebf-9f7e-620012b16f3d)
 
-### `npm test`
+Enter your information you want
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![Screenshot 2025-03-07 170635](https://github.com/user-attachments/assets/dd5c9142-e5f9-4a76-aad9-63ac502e34e8)
 
-### `npm run build`
+![334796](https://github.com/user-attachments/assets/d607922c-38c4-4016-b0e7-e37138b532c3)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+You've created product now
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![334798](https://github.com/user-attachments/assets/a879de02-6f29-40f2-a670-188375bc3dd9)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+-Update
 
-### `npm run eject`
+Click on edit button, let's update Test
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![334799](https://github.com/user-attachments/assets/e7fbec6c-af4c-491d-8547-b6d39a68ecb1)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Edit your infomation as you want
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+![Screenshot 2025-03-07 171409](https://github.com/user-attachments/assets/99636353-3774-4b6b-98b6-e40146e6d02e)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+And now you've updated yor information now
 
-## Learn More
+![334801](https://github.com/user-attachments/assets/ecccc7ae-4de5-479e-80fd-fc81350b232f)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+-Delete
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Let's click on delete button, and confirm to delete
 
-### Code Splitting
+![334807](https://github.com/user-attachments/assets/2ea2fd8a-bee0-4c1c-8300-0b99c969d33b)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+![334809](https://github.com/user-attachments/assets/713703f1-266a-4658-962c-b81c89e13766)
 
-### Analyzing the Bundle Size
+And now you've delete Ichitan
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+![Screenshot 2025-03-07 172436](https://github.com/user-attachments/assets/d0aef616-dac1-4930-85c8-d2c8741fe772)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
